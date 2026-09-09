@@ -1,0 +1,42 @@
+{
+  "common": {
+    "language": "Language",
+    "settings": "Settings",
+    "export": "Export",
+    "logout": "Logout"
+  },
+  "payment": {
+    "title": "Payment Tracking",
+    "status": "Status",
+    "amount": "Amount",
+    "date": "Date"
+  },
+  "discipline": {
+    "score": "Discipline Score",
+    "excellent": "Excellent",
+    "good": "Good",
+    "fair": "Fair"
+  },
+  "chatbot": {
+    "welcome": "Hi! How can I help you?",
+    "paymentDate": "When is my next payment?",
+    "scoreHelp": "How is my discipline score calculated?"
+  },
+
+  "chatbot": {
+    "welcome": "Hi! How can I help you?",
+    "placeholder": "Type your message here...",
+    "send": "Send"
+  },
+
+  "chatbot": {
+    "welcome": "Hi! How can I help you?",
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "sampleUser": "How do I check my balance?",
+    "sampleBot": "You can check your balance under the Account Settings tab."
+  },
+  "common": {
+    "logout": "Logout"
+  }
+}
