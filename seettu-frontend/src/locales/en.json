@@ -1,0 +1,42 @@
+{
+  "common": {
+    "language": "Language",
+    "settings": "Settings",
+    "export": "Export",
+    "logout": "Logout"
+  },
+  "payment": {
+    "title": "Payment Tracking",
+    "status": "Status",
+    "amount": "Amount",
+    "date": "Date"
+  },
+  "discipline": {
+    "score": "Discipline Score",
+    "excellent": "Excellent",
+    "good": "Good",
+    "fair": "Fair"
+  },
+  "chatbot": {
+    "welcome": "Hi! How can I help you?",
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "paymentDate": "When is my next payment?",
+    "scoreHelp": "How is my discipline score calculated?",
+    "sampleUser": "How do I check my balance?",
+    "sampleBot": "You can check your balance under the Account Settings tab."
+  },
+  "botReplies": {
+    "balance": "To check your Seettu balance, go to Account > Balance.",
+    "payment": "You can make payments via Card or Bank Transfer.",
+    "paymentDate": "Your next Seettu payment date is scheduled for the 15th of this month.",
+    "score": "Your discipline score is calculated based on your on-time payment history.",
+    "greeting": "Hello! How can I help you today?",
+    "default": "Thank you for your message. How else can I help you with your Seettu account?"
+  },
+  "suggestions": {
+    "balance": "Check Balance",
+    "payment": "Next Payment Date",
+    "score": "Discipline Score"
+  }
+}
